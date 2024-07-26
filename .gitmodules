@@ -1,0 +1,12 @@
+[submodule "CA-CA1"]
+	path = CA-CA1
+	url = git@github.com:amir-hossein-shahgholi/CA-CA1.git
+[submodule "CA-CA2"]
+	path = CA-CA2
+	url = git@github.com:amir-hossein-shahgholi/CA-CA2.git
+[submodule "CA-CA3"]
+	path = CA-CA3
+	url = git@github.com:amir-hossein-shahgholi/CA-CA3.git
+[submodule "CA-CA4"]
+	path = CA-CA4
+	url = git@github.com:amir-hossein-shahgholi/CA-CA4.git
